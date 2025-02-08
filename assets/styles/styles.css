@@ -1,0 +1,36 @@
+body{
+    font-family: 'Quicksand',sans-serif;
+}
+
+h2, h3 {
+    color: #00a2c6;
+}
+
+footer{
+    padding: 20px;
+    color: aliceblue;
+    background-color: #00a2c6;
+    text-align: center;
+}
+
+.bandung{
+    width: 256px;
+    height: 256px;
+}
+
+nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+}
+nav a:hover{
+    font-weight: bold;
+}
+
+.profile header {
+    text-align: center;
+}
+
+.profile .keterangan {
+    text-align: center;
+}

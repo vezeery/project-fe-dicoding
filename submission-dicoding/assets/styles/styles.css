@@ -44,11 +44,6 @@ header {
     display: inline;
 }
 
-.bandung {
-    width: 256px;
-    height: 256px;
-}
-
 .card {
     gap: 30px;
     border: black solid 3px;
